@@ -13,9 +13,9 @@
                 } 
             },    
     "developer": {
-        "name": "PabloYglesias",
-        "url": "http://www.pabloyglesias.com"
+        "name": "AngelCruz",
+        "url": "http://abr4xas.org/"
     },
     "installs_allowed_from": ["*"],
-    "default_locale": "en"
+    "default_locale": "es"
 }
