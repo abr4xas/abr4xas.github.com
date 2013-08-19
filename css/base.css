@@ -1,4 +1,4 @@
- @import url(http://fonts.googleapis.com/css?family=Advent+Pro:600,300);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
 
             ::-moz-selection {
                 background: #b3d4fc;
@@ -11,21 +11,25 @@
             }
 
             html {
+                background-image: url("http://dev.abr4xas.org/image/bg.png"); 
+                background-repeat: repeat; 
+                background-position: top left;
+                background-attachment: fixed;                
                 padding: 30px 10px;
                 font-size: 20px;
                 line-height: 1.4;
                 color: #737373;
-                background: #f0f0f0;
+                background-color: #f0f0f0;
                 -webkit-text-size-adjust: 100%;
                 -ms-text-size-adjust: 100%;
             }
 
             html,
             input {
-                font-family: 'Advent Pro', sans-serif;
+                font-family: 'Open Sans Condensed', sans-serif;
             }
 
-            body {
+            body {    
                 max-width: 990px;
                 _width: 990px;
                 padding: 30px 20px 50px;
@@ -33,11 +37,11 @@
                 border-radius: 4px;
                 margin: 0 auto;
                 box-shadow: 0 1px 10px #a7a7a7, inset 0 1px 0 #fff;
-                background: #fcfcfc;
+                background: #fff;
             }
 
             h1 {
-                font-weight: 600;
+                font-weight: 300;
                 margin: 0 10px;
                 font-size: 50px;
                 text-align: center;
