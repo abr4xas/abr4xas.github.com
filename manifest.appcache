@@ -1,0 +1,10 @@
+CACHE MANIFEST
+# Version 0.6799999
+
+images/*
+
+NETWORK:
+*
+
+FALLBACK:
+/ 404.html
