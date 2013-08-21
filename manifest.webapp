@@ -3,7 +3,7 @@
     "name": "abr4xas",
     "launch_path": "/index.html", 
     "appcache_path": "/manifest.appcache",
-    "description": "AApp de el blog de abr4xas.org",
+    "description": "App de el blog de abr4xas.org",
     "icons": {
         "16": "/image/icon_16.png",
         "48": "/image/icon_48.png",
@@ -12,18 +12,18 @@
     },  
     "developer": {
         "name": "AngelCruz",
-        "url": "http://abr4xas.org/"
+        "url": "http://www.abr4xas.org"
     },
     "installs_allowed_from": ["*"],
     "locales": {
         "es": {
             "description": "App de el blog de abr4xas.org",
             "developer": {
-                "url": "dev.abr4xas.org"
+                "url": "http://www.abr4xas.org
             }
-        },
-    "default_locale": "es",
+        }
+    },
+    "default_locale": "en",
     "permissions": {
     }
-
 }
