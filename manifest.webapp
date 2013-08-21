@@ -21,12 +21,12 @@
                 "url": "http://dev.abr4xas.org"
             }
         },
-        "en": {
+        "en-US": {
             "description": "Abr4xas.org's app",
             "developer": {
                 "url": "http://dev.abr4xas.org"
              }
             }        
     },
-    "default_locale": "en"
+    "default_locale": "en-US"
 }
