@@ -11,7 +11,7 @@
     },
     "developer": {
         "name": "AngelCruz",
-        "url": "http://www.abr4xas.org"
+        "url": "http://dev.abr4xas.org"
     },
     "installs_allowed_from": ["*"],
     "locales": {
@@ -20,9 +20,13 @@
             "developer": {
                 "url": "http://dev.abr4xas.org"
             }
-        }
+        },
+        "en": {
+            "description": "Abr4xas.org's app",
+            "developer": {
+                "url": "http://dev.abr4xas.org"
+             }
+            }        
     },
-    "default_locale": "en",
-    "permissions": {
-    }
+    "default_locale": "en"
 }
