@@ -1,10 +1,18 @@
 CACHE MANIFEST
-# Version 0.6799999
 
-images/*
+# Version 0.1
+
+/index.php
+/index.html
+
+#images
+/image/icon_16.png
+/image/icon_48.png
+/image/icon_60.png
+/image/icon_128.png
 
 NETWORK:
 *
 
 FALLBACK:
-/ 404.html
+/404.html
