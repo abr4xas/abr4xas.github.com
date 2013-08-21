@@ -11,7 +11,7 @@
     },
     "developer": {
         "name": "AngelCruz",
-        "url": "http://dev.abr4xas.org"
+        "url": "http://abr4xas.org"
     },
     "installs_allowed_from": ["*"],
     "locales": {
