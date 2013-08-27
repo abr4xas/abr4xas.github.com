@@ -1,7 +1,7 @@
 {
     "version": "0.3",
-    "name": "abr4xas",
-    "description": "App del blog abr4xas.org",
+    "name": "RSS Reader",
+    "description": "A simple RSS Reader",
     "launch_path": "/index.html",
     "icons": {
         "16": "/assets/image/icon_16.png",
@@ -10,23 +10,11 @@
         "128": "/assets/image/icon_128.png"
     },
     "developer": {
-        "name": "AngelCruz",
+        "name": "Angel Cruz",
         "url": "http://abr4xas.org"
     },
     "installs_allowed_from": ["*"],
-    "locales": {
-        "es": {
-            "description": "App del blog abr4xas.org",
-            "developer": {
-                "url": "http://dev.abr4xas.org"
-            }
-        },
-        "en-US": {
-            "description": "Abr4xas.org's app",
-            "developer": {
-                "url": "http://dev.abr4xas.org"
-             }
-            }        
-    },
-    "default_locale": "en-US"
+    "appcache_path": "/manifest.appcache",
+    "locales": {},
+    "default_locale": "en"
 }
